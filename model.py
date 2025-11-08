@@ -72,6 +72,6 @@ X_test = X_test[['age', 'height', 'weight', 'aids', 'cirrhosis', 'hepatic_failur
 updated_X_train, updated_X_test, model_logistic = fit_model(X_train, X_test, y_train)
 
 
-# Save model #
+# Save model and scaler #
 
 joblib.dump(model_logistic, 'model_logistic.pkl')

@@ -1,0 +1,12 @@
+  {
+    "age": 79,
+    "height": 175,
+    "weight":75,
+    "aids": 0,
+    "cirrhosis": 1,
+    "hepatic_failure": 0,
+    "immunosuppression": 1,
+    "leukemia": 0,
+    "lymphoma": 0,
+    "solid_tumor_with_metastasis": 0
+}
