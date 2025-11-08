@@ -74,4 +74,4 @@ updated_X_train, updated_X_test, model_logistic = fit_model(X_train, X_test, y_t
 
 # Save model #
 
-joblib.dump(model_logistic, 'model_logistic.joblib')
+joblib.dump(model_logistic, 'model_logistic.pkl')
