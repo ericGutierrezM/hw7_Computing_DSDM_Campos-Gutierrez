@@ -1,1 +1,3 @@
-# hw7_Computing_DSDM_Campos-Gutierrez
+# Hw7 Computing For Data Science (DSDM)
+### Daniel Campos & Eric Gutiérrez
+### 11/11/2025
