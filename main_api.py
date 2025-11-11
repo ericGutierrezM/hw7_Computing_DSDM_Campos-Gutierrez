@@ -17,10 +17,6 @@ class Item(BaseModel):
 
 app = FastAPI()
 
-@app.get("/")
-async def root():
-    return 'Hello'
-
 @app.post("/predict")
 async def predict(item: Item):
     try:
